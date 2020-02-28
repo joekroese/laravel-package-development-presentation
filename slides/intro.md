@@ -1,10 +1,10 @@
 ![Laravel](lib/img/laravel-logo.png "Laravel")
 
-# Laravel<br>Package Development
+# Playing in the Backyard with MrP
 
-- 2o Laravel Greece Online Meetup
-- Τρίτη 20 Δεκεμβρίου 2016 — 20:00
+- Using statistics for good
+- And an introduction to MRP (multilevel modelling and poststratification)
 
 <br>
 
-- <a href="https://github.com/sebdesign">Sébastien Nikolaou</a>
+- <a href = "https://jokroese.com"><b>Jo Kroese</b><br>Co-founder of <b>Citizense</b></a>

@@ -1,6 +1,4 @@
-# Ευχαριστώ!
+# Thanks for your time!
 --
-## Sébastien Nikolaou
-- http://sebdesign.eu
-- https://github.com/sebdesign
-- https://twitter.com/sebdesigneu
+## Jo Kroese
+- http://jokroese.com
